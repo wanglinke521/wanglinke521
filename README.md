@@ -1,9 +1,6 @@
 ### Hi there 👋, I'm Wang Linke
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&include_all_commits=true)](https://github.com/wanglinke521/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanglinke521&layout=compact)](https://github.com/wanglinke521/github-readme-stats)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wanglinke521&repo=wanglinke521)
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=wanglinke521&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 Here are some ideas to get you started:
 
