@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Yanshan University
 - 🌱 I’m currently learning deep learning and recommender systems
-- 📫 How to reach me: linkewangying@163.com
+- 📫 How to reach me: 18860356598g@163.com
  ...
 -->
 
