@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Yanshan University
-- 🌱 I’m currently learning deep learning and recommender systems
+- 🔭 I’m currently working on China Mobile
+- 🌱 I've currently been working in the area of ​​distributed storage
 - 📫 How to reach me: 18860356598@163.com
  ...
 -->
